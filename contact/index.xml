@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontakt on Kofest</title>
-    <link>https://kofest.sk/contact/</link>
+    <link>https://smartblock.sk/contact/</link>
     <description>Recent content in Kontakt on Kofest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright><atom:link href="https://kofest.sk/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright><atom:link href="https://smartblock.sk/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
