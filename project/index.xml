@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galéria on Kofest</title>
-    <link>https://lukaspavolkiss.github.io/project/</link>
+    <link>https://kofest.sk/project/</link>
     <description>Recent content in Galéria on Kofest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright><atom:link href="https://lukaspavolkiss.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright><atom:link href="https://kofest.sk/project/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
