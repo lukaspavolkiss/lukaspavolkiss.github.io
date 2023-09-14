@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kofest</title>
-    <link>http://smartblock.sk/categories/</link>
+    <link>http://kofest.sk/categories/</link>
     <description>Recent content in Categories on Kofest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
     <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 11:07:10 +0600</lastBuildDate><atom:link href="http://smartblock.sk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 11:07:10 +0600</lastBuildDate><atom:link href="http://kofest.sk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ročník</title>
-      <link>http://smartblock.sk/categories/ro%C4%8Dn%C3%ADk/</link>
+      <link>http://kofest.sk/categories/ro%C4%8Dn%C3%ADk/</link>
       <pubDate>Thu, 24 Aug 2023 11:07:10 +0600</pubDate>
       
-      <guid>http://smartblock.sk/categories/ro%C4%8Dn%C3%ADk/</guid>
+      <guid>http://kofest.sk/categories/ro%C4%8Dn%C3%ADk/</guid>
       <description></description>
     </item>
     
