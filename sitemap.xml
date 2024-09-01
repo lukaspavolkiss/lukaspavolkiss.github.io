@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kofest.sk/tags/2024/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://kofest.sk/categories/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://kofest.sk/blog/2024/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://kofest.sk/blog/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://kofest.sk/categories/ro%C4%8Dn%C3%ADk/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://kofest.sk/tags/</loc>
+    <lastmod>2024-08-24T11:07:10+06:00</lastmod>
+  </url><url>
     <loc>https://kofest.sk/tags/2023/</loc>
     <lastmod>2023-08-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>https://kofest.sk/categories/</loc>
-    <lastmod>2023-08-24T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>https://kofest.sk/blog/2023/</loc>
-    <lastmod>2023-08-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://kofest.sk/blog/</loc>
-    <lastmod>2023-08-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://kofest.sk/categories/ro%C4%8Dn%C3%ADk/</loc>
-    <lastmod>2023-08-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://kofest.sk/tags/</loc>
     <lastmod>2023-08-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>https://kofest.sk/tags/2022/</loc>
@@ -60,7 +66,6 @@
     <lastmod>2017-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>https://kofest.sk/service/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://kofest.sk/project/</loc>
   </url><url>
