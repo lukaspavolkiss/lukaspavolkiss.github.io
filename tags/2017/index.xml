@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2017 on Kofest</title>
-    <link>https://kofest.sk/tags/2017/</link>
-    <description>Recent content in 2017 on Kofest</description>
-    <generator>Hugo</generator>
-    <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 24 Sep 2017 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://kofest.sk/tags/2017/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Katedrálny organový festival 2017</title>
-      <link>https://kofest.sk/blog/2017/</link>
-      <pubDate>Sun, 24 Sep 2017 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2017/</guid>
-      <description>Nedeľa 27. august / 19.30 Helmut HAUSKELLER, panova flauta / Nemecko Stanislav ŠURIN, organ / Slovensko PROGRAM&#xA;Giulio Caccini&#xA;(1546 –1618)&#xA;Ave Maria&#xA;Michael Praetorius&#xA;(1571 – 1621)&#xA;Ballet de Coqs&#x9;Spagnoletta</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2017 on Kofest</title>
+		<link>https://kofest.sk/tags/2017/</link>
+		<description>Recent content in 2017 on Kofest</description>
+		<generator>Hugo</generator>
+		<language>sk-SK</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Sun, 24 Sep 2017 11:07:10 +0600</lastBuildDate>
+		
+			<atom:link href="https://kofest.sk/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Katedrálny organový festival 2017</title>
+				<link>https://kofest.sk/blog/2017/</link>
+				<pubDate>Sun, 24 Sep 2017 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2017/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-27-august--1930&#34;&gt;Nedeľa 27. august / 19.30&lt;/h1&gt;&#xA;&lt;h3 id=&#34;helmut--hauskeller-panova-flauta--nemecko&#34;&gt;&lt;strong&gt;Helmut  HAUSKELLER&lt;/strong&gt;, panova flauta / Nemecko&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stanislav-šurin-organ--slovensko&#34;&gt;&lt;strong&gt;Stanislav ŠURIN&lt;/strong&gt;, organ / Slovensko&lt;/h3&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Giulio Caccini&lt;/b&gt;&lt;br /&gt;(1546 –1618)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;Ave Maria&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Michael Praetorius&lt;/b&gt;&lt;br /&gt;(1571 – 1621)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;Ballet de Coqs&#x9; &lt;br /&gt;&#xA;Spagnoletta&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

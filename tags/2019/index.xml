@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2019 on Kofest</title>
-    <link>https://kofest.sk/tags/2019/</link>
-    <description>Recent content in 2019 on Kofest</description>
-    <generator>Hugo</generator>
-    <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 24 Sep 2019 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://kofest.sk/tags/2019/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Katedrálny organový festival 2019</title>
-      <link>https://kofest.sk/blog/2019/</link>
-      <pubDate>Tue, 24 Sep 2019 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2019/</guid>
-      <description>Nedeľa 01. september / 19.30 V Bazilike sv. Emeráma Nitra Géraud Guillemot/ Francúzsko PROGRAM&#xA;Pablo Bruna (1611-1679)&#xA;Tiento sobre la letania de la Virgen Tiento de tiples Anonym (Španielsko 16. stor.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2019 on Kofest</title>
+		<link>https://kofest.sk/tags/2019/</link>
+		<description>Recent content in 2019 on Kofest</description>
+		<generator>Hugo</generator>
+		<language>sk-SK</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Tue, 24 Sep 2019 11:07:10 +0600</lastBuildDate>
+		
+			<atom:link href="https://kofest.sk/tags/2019/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Katedrálny organový festival 2019</title>
+				<link>https://kofest.sk/blog/2019/</link>
+				<pubDate>Tue, 24 Sep 2019 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2019/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-01-september--1930&#34;&gt;Nedeľa 01. september / 19.30&lt;/h1&gt;&#xA;&lt;h2 id=&#34;v-bazilike-sv-emeráma-nitra&#34;&gt;V Bazilike sv. Emeráma Nitra&lt;/h2&gt;&#xA;&lt;h3 id=&#34;géraud-guillemot-francúzsko&#34;&gt;&lt;strong&gt;Géraud Guillemot&lt;/strong&gt;/ Francúzsko&lt;/h3&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Pablo Bruna &lt;/b&gt;&lt;br /&gt;(1611-1679)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento sobre la letania de la Virgen&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Tiento de tiples&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Anonym &lt;/b&gt;&lt;br /&gt;(Španielsko 16. stor.)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

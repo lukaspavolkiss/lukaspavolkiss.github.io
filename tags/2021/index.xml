@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2021 on Kofest</title>
-    <link>https://kofest.sk/tags/2021/</link>
-    <description>Recent content in 2021 on Kofest</description>
-    <generator>Hugo</generator>
-    <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 24 Jul 2021 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://kofest.sk/tags/2021/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Katedrálny organový festival 2021</title>
-      <link>https://kofest.sk/blog/2021/</link>
-      <pubDate>Sat, 24 Jul 2021 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2021/</guid>
-      <description>Nedeľa 29. august / 19:00 Michat MARKUSZEWSKI – organ / Poľsko, Varšava Nedeľa 05. september / 19:00 Nicolò Antonio – organ / Taliansko, Benátky Nedeľa 12. september / 19:00 Jiri Lecian – organ / Taliansko, Rím Nedeľa 19.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2021 on Kofest</title>
+		<link>https://kofest.sk/tags/2021/</link>
+		<description>Recent content in 2021 on Kofest</description>
+		<generator>Hugo</generator>
+		<language>sk-SK</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Sat, 24 Jul 2021 11:07:10 +0600</lastBuildDate>
+		
+			<atom:link href="https://kofest.sk/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Katedrálny organový festival 2021</title>
+				<link>https://kofest.sk/blog/2021/</link>
+				<pubDate>Sat, 24 Jul 2021 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2021/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-29-august---1900&#34;&gt;Nedeľa 29. august  / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/Markuszewski.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;michat-markuszewski--organ--poľsko-varšava&#34;&gt;&lt;strong&gt;Michat MARKUSZEWSKI&lt;/strong&gt; – organ / Poľsko, Varšava&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-05-september--1900&#34;&gt;Nedeľa 05. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/nicolo.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;nicolò-antonio--organ--taliansko-benátky&#34;&gt;&lt;strong&gt;Nicolò Antonio&lt;/strong&gt; – organ / Taliansko, Benátky&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-12-september--1900&#34;&gt;Nedeľa 12. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/lecian.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;jiri-lecian--organ--taliansko-rím&#34;&gt;&lt;strong&gt;Jiri Lecian&lt;/strong&gt; – organ / Taliansko, Rím&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-19-september--1900&#34;&gt;Nedeľa 19. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/marzec.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;renata-marzec--violoncello--poľsko-bydgoszcz&#34;&gt;&lt;strong&gt;Renata MARZEC&lt;/strong&gt; – violoncello / Poľsko, Bydgoszcz&lt;/h3&gt;</description>
+			</item>
+	</channel>
 </rss>

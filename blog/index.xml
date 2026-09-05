@@ -1,69 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Organové ročníky on Kofest</title>
-    <link>https://kofest.sk/blog/</link>
-    <description>Recent content in Organové ročníky on Kofest</description>
-    <generator>Hugo</generator>
-    <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 24 Aug 2024 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://kofest.sk/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Katedrálny organový festival 2024</title>
-      <link>https://kofest.sk/blog/2024/</link>
-      <pubDate>Sat, 24 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2024/</guid>
-      <description>Nedeľa 1. september 2024 / 19.00 Marieta Puhovichová – organ / Slovensko Martin Puhovich – saxofón / Slovensko Nedeľa 8. september 2024 / 19.00 Alexander De Bie – organ / Holandsko Nedeľa 15.</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2023</title>
-      <link>https://kofest.sk/blog/2023/</link>
-      <pubDate>Thu, 24 Aug 2023 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2023/</guid>
-      <description>Brožúra na stiahnutie Stiahnuť Brožúru Nedeľa 3. september 2023 / 19.00 Christian Alejandro Almada – organ / Argentína Nedeľa 10. september 2023 / 19.00 Marieta Puhovichová – organ / Slovensko Nedeľa 17.</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2022</title>
-      <link>https://kofest.sk/blog/2022/</link>
-      <pubDate>Wed, 24 Aug 2022 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2022/</guid>
-      <description>Brožúra na stiahnutie Stiahnuť Brožúru Nedeľa 4. september 2022 / 19.00 Pier Damiano Peretti – organ / Rakúsko Nedeľa 11. september / 19.00 Paolo Oreni – organ / Taliansko Nedeľa 18.</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2021</title>
-      <link>https://kofest.sk/blog/2021/</link>
-      <pubDate>Sat, 24 Jul 2021 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2021/</guid>
-      <description>Nedeľa 29. august / 19:00 Michat MARKUSZEWSKI – organ / Poľsko, Varšava Nedeľa 05. september / 19:00 Nicolò Antonio – organ / Taliansko, Benátky Nedeľa 12. september / 19:00 Jiri Lecian – organ / Taliansko, Rím Nedeľa 19.</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2020</title>
-      <link>https://kofest.sk/blog/2020/</link>
-      <pubDate>Fri, 24 Jul 2020 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2020/</guid>
-      <description>Nedeľa 6. septembra 2020 Jaroslav Tůma – organ / Česká republika PROGRAM&#xA;Adam Václav Michna&#xA;(1700 - 1779)&#xA;Loutna česká - výber Jaroslav Tůma (*1956)&#xA;Loutna česká na témy Adama Václava Michnu – výber: Hymnus Předmluva - Barkarola Hymnus Matky Boží slavná Nadaní - Perpetuum mobile Hymnus Smutek bláznivých Panen - Fantasia in a Johann Sebastian Bach (1685-1750)</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2019</title>
-      <link>https://kofest.sk/blog/2019/</link>
-      <pubDate>Tue, 24 Sep 2019 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2019/</guid>
-      <description>Nedeľa 01. september / 19.30 V Bazilike sv. Emeráma Nitra Géraud Guillemot/ Francúzsko PROGRAM&#xA;Pablo Bruna (1611-1679)&#xA;Tiento sobre la letania de la Virgen Tiento de tiples Anonym (Španielsko 16. stor.</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2018</title>
-      <link>https://kofest.sk/blog/2018/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2018/</guid>
-      <description>Nedeľa 02. september / 19.30 Géraud Guillemot/ Francúzsko Organové cesty po Európe PROGRAM&#xA;Cabanilles anonimo (17. stor.)&#xA;Tiento de falsas 4 tono&#xA;Antonio de Cabezon (1510–1566)&#xA;Tiento del primer tono</description>
-    </item>
-    <item>
-      <title>Katedrálny organový festival 2017</title>
-      <link>https://kofest.sk/blog/2017/</link>
-      <pubDate>Sun, 24 Sep 2017 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2017/</guid>
-      <description>Nedeľa 27. august / 19.30 Helmut HAUSKELLER, panova flauta / Nemecko Stanislav ŠURIN, organ / Slovensko PROGRAM&#xA;Giulio Caccini&#xA;(1546 –1618)&#xA;Ave Maria&#xA;Michael Praetorius&#xA;(1571 – 1621)&#xA;Ballet de Coqs&#x9;Spagnoletta</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Organové ročníky on Kofest</title>
+		<link>https://kofest.sk/blog/</link>
+		<description>Recent content in Organové ročníky on Kofest</description>
+		<generator>Hugo</generator>
+		<language>sk-SK</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Mon, 24 Aug 2026 11:07:10 +0600</lastBuildDate>
+		
+			<atom:link href="https://kofest.sk/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Katedrálny organový festival 2026</title>
+				<link>https://kofest.sk/blog/2026/</link>
+				<pubDate>Mon, 24 Aug 2026 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2026/</guid>
+				<description>&lt;h2 id=&#34;x-ročník-medzinárodného-festivalu-v-bazilike-sv-emeráma-na-nitrianskom-hrade&#34;&gt;X. ročník medzinárodného festivalu v Bazilike sv. Emeráma na Nitrianskom hrade&lt;/h2&gt;&#xA;&lt;h1 id=&#34;nedeľa-6-september-2026--1900&#34;&gt;Nedeľa 6. september 2026 / 19.00&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pavel-svoboda--organ--česká-republika&#34;&gt;&lt;strong&gt;Pavel Svoboda&lt;/strong&gt; – organ / Česká republika&lt;/h3&gt;&#xA;&lt;p&gt;Sweelinck, J. B. Bach, Mozart, J. S. Bach&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2025</title>
+				<link>https://kofest.sk/blog/2025/</link>
+				<pubDate>Sun, 24 Aug 2025 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2025/</guid>
+				<description>&lt;h2 id=&#34;ix-ročník-medzinárodného-festivalu-v-bazilike-sv-emeráma-na-nitrianskom-hrade&#34;&gt;IX. ročník medzinárodného festivalu v Bazilike sv. Emeráma na Nitrianskom hrade&lt;/h2&gt;&#xA;&lt;h1 id=&#34;nedeľa-31-august-2025--1900&#34;&gt;Nedeľa 31. august 2025 / 19.00&lt;/h1&gt;&#xA;&lt;h3 id=&#34;jan-vermeire--organ--belgicko&#34;&gt;&lt;strong&gt;Jan Vermeire&lt;/strong&gt; – organ / Belgicko&lt;/h3&gt;&#xA;&lt;p&gt;Telemann, Graupner, Bach&lt;/p&gt;&#xA;&lt;h1 id=&#34;nedeľa-7-september-2025--1900&#34;&gt;Nedeľa 7. september 2025 / 19.00&lt;/h1&gt;&#xA;&lt;h3 id=&#34;juraj-křemen--organ--slovensko&#34;&gt;&lt;strong&gt;Juraj Křemen&lt;/strong&gt; – organ / Slovensko&lt;/h3&gt;&#xA;&lt;p&gt;Buxtehude, Marchand, Mendelssohn, Křemen&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2024</title>
+				<link>https://kofest.sk/blog/2024/</link>
+				<pubDate>Sat, 24 Aug 2024 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2024/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-1-september-2024--1900&#34;&gt;Nedeľa 1. september 2024 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Puhovichovci.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;marieta-puhovichová--organ--slovensko&#34;&gt;&lt;strong&gt;Marieta Puhovichová&lt;/strong&gt; – organ / Slovensko&lt;/h3&gt;&#xA;&lt;h3 id=&#34;martin-puhovich--saxofón--slovensko&#34;&gt;&lt;strong&gt;Martin Puhovich&lt;/strong&gt; – saxofón / Slovensko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-8-september-2024--1900&#34;&gt;Nedeľa 8. september 2024 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Alexander_de_Bie.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;alexander-de-bie--organ--holandsko&#34;&gt;&lt;strong&gt;Alexander De Bie&lt;/strong&gt; – organ / Holandsko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-15-september-2024--1900&#34;&gt;Nedeľa 15. september 2024 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Stanislav_Surin_Martinsdom_foto_Milan_Krupcik.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;stanislav-šurin--organ--slovensko&#34;&gt;&lt;strong&gt;Stanislav Šurin&lt;/strong&gt; – organ / Slovensko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-22-september-2024--1900&#34;&gt;Nedeľa 22. september 2024 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Mateusz_Rzewuski_Paderborn.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;mateusz-rzewuski--organ---poľsko&#34;&gt;&lt;strong&gt;Mateusz Rzewuski&lt;/strong&gt; – organ /  Poľsko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-29-september-2024--1900&#34;&gt;Nedeľa 29. september 2024 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Christian_Tarabbia_Arona.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;christian-tarabbia--organ---taliansko&#34;&gt;&lt;strong&gt;Christian Tarabbia&lt;/strong&gt; – organ /  Taliansko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;koncert-v-diecéze&#34;&gt;Koncert v diecéze&lt;/h1&gt;&#xA;&lt;h2 id=&#34;v-kostole-sv-klimenta-v-močenku&#34;&gt;V kostole sv. Klimenta v Močenku&lt;/h2&gt;&#xA;&lt;h1 id=&#34;nedeľa-8-september-2024--1530&#34;&gt;Nedeľa 8. september 2024 / 15:30&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik8/interpreti/Juan_Paradell_Sole.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;juan-paradell-solé--organ--vatikán&#34;&gt;&lt;strong&gt;Juan Paradell-Solé&lt;/strong&gt; – organ / Vatikán&lt;/h3&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2023</title>
+				<link>https://kofest.sk/blog/2023/</link>
+				<pubDate>Thu, 24 Aug 2023 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2023/</guid>
+				<description>&lt;h2 id=&#34;brozura-na-stiahnutie&#34;&gt;Brožúra na stiahnutie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kofest.sk/Brozura_KOF_2023.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-main animated fadeInUp&#34;&gt;Stiahnuť Brožúru &lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;nedeľa-3-september-2023--1900&#34;&gt;Nedeľa 3. september 2023 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik7/interpreti/Almada_mini.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;christian-alejandro-almada--organ--argentína&#34;&gt;&lt;strong&gt;Christian Alejandro Almada&lt;/strong&gt; – organ / Argentína&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-10-september-2023--1900&#34;&gt;Nedeľa 10. september 2023 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik7/interpreti/Puhovichova_mini.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;marieta-puhovichová--organ--slovensko&#34;&gt;&lt;strong&gt;Marieta Puhovichová&lt;/strong&gt; – organ / Slovensko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-17-september-2023--1900&#34;&gt;Nedeľa 17. september 2023 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik7/interpreti/Bonetto_mini.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;roberto-bonetto--organ--taliansko&#34;&gt;&lt;strong&gt;Roberto Bonetto&lt;/strong&gt; – organ / Taliansko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-24-september-2023--1900&#34;&gt;Nedeľa 24. september 2023 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik7/interpreti/Sampedro.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;jesús-sampedro-márquez--organ---španielsko&#34;&gt;&lt;strong&gt;Jesús Sampedro Márquez&lt;/strong&gt; – organ /  Španielsko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-1--októbra--2023--1900&#34;&gt;Nedeľa 1.  októbra  2023 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik7/interpreti/Pronesti_mini.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;salvatore-pronesti--organ---taliansko&#34;&gt;&lt;strong&gt;Salvatore Pronesti&lt;/strong&gt; – organ /  Taliansko&lt;/h3&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2022</title>
+				<link>https://kofest.sk/blog/2022/</link>
+				<pubDate>Wed, 24 Aug 2022 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2022/</guid>
+				<description>&lt;h2 id=&#34;brozura-na-stiahnutie&#34;&gt;Brožúra na stiahnutie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kofest.sk/Brozura_KOF_2022.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-main animated fadeInUp&#34;&gt;Stiahnuť Brožúru &lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;nedeľa-4-september-2022--1900&#34;&gt;Nedeľa 4. september 2022 / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik6/interpreti/Pier_Damiano_Peretti_Photo1.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;pier-damiano-peretti--organ--rakúsko&#34;&gt;&lt;strong&gt;Pier Damiano Peretti&lt;/strong&gt; – organ / Rakúsko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-11-september--1900&#34;&gt;Nedeľa 11. september / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik6/interpreti/Paolo_Oreni_photo.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;paolo-oreni--organ--taliansko&#34;&gt;&lt;strong&gt;Paolo Oreni&lt;/strong&gt; – organ / Taliansko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-18-september--1900&#34;&gt;Nedeľa 18. september / 19.00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik6/interpreti/Vladimir_Kopec_foto.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;vladimír-kopec--organ--slovensko&#34;&gt;&lt;strong&gt;Vladimír Kopec&lt;/strong&gt; – organ / Slovensko&lt;/h3&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik6/interpreti/ZOE_photo.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;zoe--nitriansky-komorný-orchester-zoe--slovensko&#34;&gt;&lt;strong&gt;ZOE&lt;/strong&gt; – NITRIANSKY KOMORNÝ ORCHESTER ZOE / Slovensko&lt;/h3&gt;&#xA;&lt;h1 id=&#34;streda-21-september--1800&#34;&gt;Streda 21. september / 18.00&lt;/h1&gt;&#xA;&lt;p&gt;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Sólisti&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2021</title>
+				<link>https://kofest.sk/blog/2021/</link>
+				<pubDate>Sat, 24 Jul 2021 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2021/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-29-august---1900&#34;&gt;Nedeľa 29. august  / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/Markuszewski.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;michat-markuszewski--organ--poľsko-varšava&#34;&gt;&lt;strong&gt;Michat MARKUSZEWSKI&lt;/strong&gt; – organ / Poľsko, Varšava&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-05-september--1900&#34;&gt;Nedeľa 05. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/nicolo.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;nicolò-antonio--organ--taliansko-benátky&#34;&gt;&lt;strong&gt;Nicolò Antonio&lt;/strong&gt; – organ / Taliansko, Benátky&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-12-september--1900&#34;&gt;Nedeľa 12. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/lecian.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;jiri-lecian--organ--taliansko-rím&#34;&gt;&lt;strong&gt;Jiri Lecian&lt;/strong&gt; – organ / Taliansko, Rím&lt;/h3&gt;&#xA;&lt;h1 id=&#34;nedeľa-19-september--1900&#34;&gt;Nedeľa 19. september / 19:00&lt;/h1&gt;&#xA;&lt;figure class=&#34;post-media post-thumb&#34;&gt;&lt;img src=&#34;https://kofest.sk/rocnik/rocnik5/interpreti/marzec.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;renata-marzec--violoncello--poľsko-bydgoszcz&#34;&gt;&lt;strong&gt;Renata MARZEC&lt;/strong&gt; – violoncello / Poľsko, Bydgoszcz&lt;/h3&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2020</title>
+				<link>https://kofest.sk/blog/2020/</link>
+				<pubDate>Fri, 24 Jul 2020 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2020/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-6-septembra-2020&#34;&gt;Nedeľa 6. septembra 2020&lt;/h1&gt;&#xA;&lt;h3 id=&#34;jaroslav-tůma--organ--česká-republika&#34;&gt;&lt;strong&gt;Jaroslav Tůma&lt;/strong&gt; – organ / Česká republika&lt;/h3&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Adam Václav Michna&lt;/b&gt;&lt;br /&gt;(1700 - 1779)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Loutna česká&lt;/strong&gt; - výber &lt;br /&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Jaroslav Tůma &lt;/b&gt;&lt;br /&gt;(*1956)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Loutna česká&lt;/strong&gt; na témy Adama Václava Michnu – výber: &lt;br /&gt;&#xA;&lt;strong&gt;Hymnus&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Předmluva - Barkarola&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Hymnus&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Matky Boží slavná Nadaní - Perpetuum mobile&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Hymnus&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Smutek bláznivých Panen - Fantasia in a&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2019</title>
+				<link>https://kofest.sk/blog/2019/</link>
+				<pubDate>Tue, 24 Sep 2019 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2019/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-01-september--1930&#34;&gt;Nedeľa 01. september / 19.30&lt;/h1&gt;&#xA;&lt;h2 id=&#34;v-bazilike-sv-emeráma-nitra&#34;&gt;V Bazilike sv. Emeráma Nitra&lt;/h2&gt;&#xA;&lt;h3 id=&#34;géraud-guillemot-francúzsko&#34;&gt;&lt;strong&gt;Géraud Guillemot&lt;/strong&gt;/ Francúzsko&lt;/h3&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Pablo Bruna &lt;/b&gt;&lt;br /&gt;(1611-1679)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento sobre la letania de la Virgen&lt;/strong&gt; &lt;br /&gt;&#xA;&lt;strong&gt;Tiento de tiples&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Anonym &lt;/b&gt;&lt;br /&gt;(Španielsko 16. stor.)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2018</title>
+				<link>https://kofest.sk/blog/2018/</link>
+				<pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2018/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-02-september--1930&#34;&gt;Nedeľa 02. september / 19.30&lt;/h1&gt;&#xA;&lt;h3 id=&#34;géraud-guillemot-francúzsko&#34;&gt;&lt;strong&gt;Géraud Guillemot&lt;/strong&gt;/ Francúzsko&lt;/h3&gt;&#xA;&lt;h2 id=&#34;organové-cesty-po-európe&#34;&gt;&lt;strong&gt;Organové cesty po Európe&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Cabanilles anonimo &lt;/b&gt;&lt;br /&gt;(17. stor.)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento de falsas 4 tono&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Antonio de Cabezon &lt;/b&gt;&lt;br /&gt;(1510–1566)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento del primer tono&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Correa de Arauxo  &lt;/b&gt;&lt;br /&gt;(1584–1654)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Katedrálny organový festival 2017</title>
+				<link>https://kofest.sk/blog/2017/</link>
+				<pubDate>Sun, 24 Sep 2017 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2017/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-27-august--1930&#34;&gt;Nedeľa 27. august / 19.30&lt;/h1&gt;&#xA;&lt;h3 id=&#34;helmut--hauskeller-panova-flauta--nemecko&#34;&gt;&lt;strong&gt;Helmut  HAUSKELLER&lt;/strong&gt;, panova flauta / Nemecko&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stanislav-šurin-organ--slovensko&#34;&gt;&lt;strong&gt;Stanislav ŠURIN&lt;/strong&gt;, organ / Slovensko&lt;/h3&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Giulio Caccini&lt;/b&gt;&lt;br /&gt;(1546 –1618)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;Ave Maria&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Michael Praetorius&lt;/b&gt;&lt;br /&gt;(1571 – 1621)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;Ballet de Coqs&#x9; &lt;br /&gt;&#xA;Spagnoletta&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

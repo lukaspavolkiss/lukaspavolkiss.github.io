@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2018 on Kofest</title>
-    <link>https://kofest.sk/tags/2018/</link>
-    <description>Recent content in 2018 on Kofest</description>
-    <generator>Hugo</generator>
-    <language>sk-SK</language>
-    <copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://kofest.sk/tags/2018/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Katedrálny organový festival 2018</title>
-      <link>https://kofest.sk/blog/2018/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://kofest.sk/blog/2018/</guid>
-      <description>Nedeľa 02. september / 19.30 Géraud Guillemot/ Francúzsko Organové cesty po Európe PROGRAM&#xA;Cabanilles anonimo (17. stor.)&#xA;Tiento de falsas 4 tono&#xA;Antonio de Cabezon (1510–1566)&#xA;Tiento del primer tono</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2018 on Kofest</title>
+		<link>https://kofest.sk/tags/2018/</link>
+		<description>Recent content in 2018 on Kofest</description>
+		<generator>Hugo</generator>
+		<language>sk-SK</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2020 (https://kofest.sk) All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+		
+			<atom:link href="https://kofest.sk/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Katedrálny organový festival 2018</title>
+				<link>https://kofest.sk/blog/2018/</link>
+				<pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+				<guid>https://kofest.sk/blog/2018/</guid>
+				<description>&lt;h1 id=&#34;nedeľa-02-september--1930&#34;&gt;Nedeľa 02. september / 19.30&lt;/h1&gt;&#xA;&lt;h3 id=&#34;géraud-guillemot-francúzsko&#34;&gt;&lt;strong&gt;Géraud Guillemot&lt;/strong&gt;/ Francúzsko&lt;/h3&gt;&#xA;&lt;h2 id=&#34;organové-cesty-po-európe&#34;&gt;&lt;strong&gt;Organové cesty po Európe&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&lt;strong&gt;PROGRAM&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Cabanilles anonimo &lt;/b&gt;&lt;br /&gt;(17. stor.)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento de falsas 4 tono&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Antonio de Cabezon &lt;/b&gt;&lt;br /&gt;(1510–1566)&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Tiento del primer tono&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p&gt;&lt;b&gt;Correa de Arauxo  &lt;/b&gt;&lt;br /&gt;(1584–1654)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
